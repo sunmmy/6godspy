@@ -6,7 +6,7 @@ hi
 这里有
 
 ##小组事项日志
-* log链接：每日组里事项
+* [log链接](https://github.com/sunmmy/6godspy/blob/master/log.md)：每日组里事项
 * 每日大家可以在自己的文件夹里更新log
 
 
