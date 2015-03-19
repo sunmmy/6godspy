@@ -32,9 +32,9 @@ hello，这是一个紧急任务：
 
 
 2. cici：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  http://cici1989.gitbooks.io/mypy/content/
+  - gihub 的代码仓库：  https://github.com/cici1989/omooc.py
+  - gitbook 在 github 上的图书仓库：  https://github.com/cici1989/pythoncamp0
+  - gitbook 发布链接：  http://cici19891.gitbooks.io/mypy/content/
 
 3. sisi：  
   - gihub 的代码仓库：  
