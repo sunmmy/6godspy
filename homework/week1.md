@@ -75,16 +75,19 @@
 - [ ] Github与Gitbook链接 + 发布图书。 
 - [ ] say "Hello World".  
 - [ ] gitbook: markdown 教程.   
-1. 用markdown形式写成教程，放到Github里面。
+1. 用markdown形式写成教程，放到Github里面。[Markdown 教程](https://github.com/cici1989/omooc.py/wiki/写给六个月前的自己——Markdown)
 
-- [ ] mailling-list 教程.[教程链接](https://github.com/cici1989/omooc.py/wiki/写给六个月前的自己——MailingList)
+
+- [ ] mailling-list 教程.[Mailling-List 教程](https://github.com/cici1989/omooc.py/wiki/写给六个月前的自己——MailingList)
+
 1. 什么是 mailling-list?
    为什么 mailling-list 值得用?
    和其它沟通方式 mailling-list 最大的不同是什么?
    应该如何使用 mailling-list ?
    说服6个月前的自个儿来使用 mailling-list 吧.
 - [ ]在gitbook中写github的教程.    
-- [ ] 开学大典心得。 [链接](https://github.com/cici1989/omooc.py/wiki/开学大典心得) 
+- [ ] 开学大典心得。 [开学大典心得](https://github.com/cici1989/omooc.py/wiki/开学大典心得) 
+
 
 字数要求：无字数要求。可写自己的收获、感想、目标等。  
 内容要求：可主要写一下，反转教学的优缺点。及自己在反转教学中得到的反思。    
