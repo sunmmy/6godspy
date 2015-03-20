@@ -37,9 +37,9 @@ hello，这是一个紧急任务：
   - gitbook 发布链接：  http://cici19891.gitbooks.io/mypy/content/
 
 3. sisi：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
+  - gihub 的代码仓库： https://github.com/zsisi/omooc.py 
+  - gitbook 在 github 上的图书仓库： https://github.com/zsisi/pythoncamp0 
+  - gitbook 发布链接：http://zsisi.gitbooks.io/python-0-to-1/content/  
 
 4. 糖糖糖：  
   - gihub 的代码仓库：  
