@@ -57,7 +57,7 @@ hello，这是一个紧急任务：
   - gitbook 发布链接：  http://tornote.gitbooks.io/pythoncamp0/content/
 
 7. 叶舟：  
-  - github 的代码仓库： 
-  - gitbook 在 github 上的图书仓库： 
-  - gitbook 发布链接：  
+  - github 的代码仓库： https://github.com/nora614/omooc.py
+  - gitbook 在 github 上的图书仓库： https://www.gitbook.com/book/nora614/pythoncamp0
+  - gitbook 发布链接： http://nora614.gitbooks.io/pythoncamp0/content/ 
   
