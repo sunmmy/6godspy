@@ -42,9 +42,9 @@ hello，这是一个紧急任务：
   - gitbook 发布链接：http://zsisi.gitbooks.io/python-0-to-1/content/  
 
 4. 糖糖糖：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
+  - gihub 的代码仓库： https://github.com/skyworlds/omooc.py
+  - gitbook 在 github 上的图书仓库： https://www.gitbook.com/book/skyworlds/pythoncamp0
+  - gitbook 发布链接：  http://skyworlds.gitbooks.io/pythoncamp0/content/
 
 5. L：  
   - github 的代码仓库： 
