@@ -97,8 +97,8 @@
 - [x] `INFO`大妈的一封信。  
 - [x] `INFO`开学典礼。  
 - [x] 注册网易云课堂。  
-- [ ] Github初始化。   
-- [ ] Github与Gitbook链接 + 发布图书。 
+- [x] Github初始化。 [GitHub主页](https://github.com/skyworlds)  
+- [x] Github与Gitbook链接 + 发布图书。 
 - [ ] say "Hello World".  
 - [ ] gitbook: markdown 教程.   
 1. 用markdown形式写成教程，放到Github里面。
