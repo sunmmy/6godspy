@@ -1,0 +1,2 @@
+终于用悠悠代理搞定shadowsocks的翻墙，可以流畅的使用google了，感觉好爽，推荐在这里：http://www.uudaili.org/index.html
+已经注册好coursera上的课程：1.https://www.coursera.org/course/interactivepython1  ；2，https://www.coursera.org/course/interactivepython2
