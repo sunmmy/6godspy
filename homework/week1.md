@@ -73,12 +73,12 @@
 - [x] 注册网易云课堂。  
 - [x] Github初始化。[GitHub主页](https://github.com/cici1989) 
 - [ ] Github与Gitbook链接 + 发布图书。 
-- [ ] say "Hello World".  
-- [ ] gitbook: markdown 教程.   
+- [x] say "Hello World". [Hello world](https://github.com/cici1989/omooc.py/blob/master/say%20%22Hello%20World%22.md) 
+- [x] gitbook: markdown 教程.   
 1. 用markdown形式写成教程，放到Github里面。[Markdown 教程](https://github.com/cici1989/omooc.py/wiki/写给六个月前的自己——Markdown)
 
 
-- [ ] mailling-list 教程.[Mailling-List 教程](https://github.com/cici1989/omooc.py/wiki/写给六个月前的自己——MailingList)
+- [x] mailling-list 教程.[Mailling-List 教程](https://github.com/cici1989/omooc.py/wiki/写给六个月前的自己——MailingList)
 
 1. 什么是 mailling-list?
    为什么 mailling-list 值得用?
@@ -86,7 +86,7 @@
    应该如何使用 mailling-list ?
    说服6个月前的自个儿来使用 mailling-list 吧.
 - [ ]在gitbook中写github的教程.    
-- [ ] 开学大典心得。 [开学大典心得](https://github.com/cici1989/omooc.py/wiki/开学大典心得) 
+- [x] 开学大典心得。 [开学大典心得](https://github.com/cici1989/omooc.py/wiki/开学大典心得) 
 
 
 字数要求：无字数要求。可写自己的收获、感想、目标等。  
