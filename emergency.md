@@ -47,9 +47,9 @@ hello，这是一个紧急任务：
   - gitbook 发布链接：  http://skyworlds.gitbooks.io/pythoncamp0/content/
 
 5. L：  
-  - github 的代码仓库： 
-  - gitbook 在 github 上的图书仓库： 
-  - gitbook 发布链接：  
+  - github 的代码仓库： https://github.com/leeciyuan/omooc.py
+  - gitbook 在 github 上的图书仓库： https://www.gitbook.com/book/leeciyuan/pythoncamp0
+  - gitbook 发布链接：  https://leeciyuan.gitbooks.io/pythoncamp0/content/
 
 6. tornote：  
   - gihub 的代码仓库：  https://github.com/tornoteli/omooc.py
